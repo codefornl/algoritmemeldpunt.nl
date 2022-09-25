@@ -14,6 +14,8 @@ Heb je ideeën, wil je helpen, of een melding maken? Ga naar https://praatmee.co
 
 Mogelijkheid om melding te maken van (vermoeden van) ongewenste inzet van algoritmes en ai door de overheid.
 
+Checken of de betreffende inzet van algoritme of ai is geregistreerd in het algoritmeregister van de betreffende organisatie.
+
 Meldingen (automatisch) doorzetten naar betreffende organisatie.
 
 Overzicht van gemaakte meldingen en hun afhandelstatus (ontvangen, ingediend bij organisatie, ...).
