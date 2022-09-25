@@ -34,4 +34,4 @@ Iedereen met een vermoeden van ongewenste inzet van algoritmes en ai door de ove
 
 ## Over Code for NL
 
-Code for NL is de Nederlandse community van mensen die samenwerken aan een open, eerlijke en inclusieve digitale overheid en samenleving. Kijk op [www.codefor.nl](www.codefor.nl) voor meer informatie.
+Code for NL is de Nederlandse community van mensen die samenwerken aan een open, eerlijke en inclusieve digitale overheid en samenleving. Kijk op [https://www.codefor.nl](https://www.codefor.nl) voor meer informatie.
