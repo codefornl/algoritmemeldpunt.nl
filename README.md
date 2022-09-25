@@ -8,9 +8,7 @@ Deze website is in ontwikkeling.
 
 Heb je ideeën, wil je helpen, of een melding maken? Ga naar https://praatmee.codefor.nl/ of stuur een mail naar info@codefor.nl
 
-## Features
-
-Overzicht van de beoogde functionaliteiten:
+## Wat gaan we doen
 
 ### Meldingen
 
@@ -27,6 +25,10 @@ Veelgestelde vragen en antwoorden daarop, waaronder: wat is een algoritme? wat m
 ### Bijeenkomsten
 
 Bijeenkomsten over the good, the bad and the ugly van de inzet van AI en de dilemma's daarbij.
+
+## Doelgroep
+
+Iedereen met een vermoeden van ongewenste inzet van algoritmes en ai door de overheid. Maar ook "klokkenluiders" in de uitvoer kunnen op deze manier anoniem melding maken.
 
 ## Over Code for NL
 
