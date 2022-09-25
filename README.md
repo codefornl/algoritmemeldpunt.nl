@@ -10,19 +10,23 @@ Heb je ideeën, wil je helpen, of een melding maken? Ga naar https://praatmee.co
 
 ## Features
 
-Overzicht van de beoogde functionaliteitein:
+Overzicht van de beoogde functionaliteiten:
 
 ### Meldingen
 
 Mogelijkheid om melding te maken van (vermoeden van) ongewenste inzet van algoritmes en ai door de overheid.
 
-Overzicht van gemaakte meldingen en hun afhandelstatus (ontvangen, in onderzoek, behandeld).
+Meldingen (automatisch) doorzetten naar betreffende organisatie.
 
-Daarnaast indien mogelijk status "afgeleverd" of "ingediend" bij de betreffende organisatie, indien mogelijk met link voor status.
+Overzicht van gemaakte meldingen en hun afhandelstatus (ontvangen, ingediend bij organisatie, ...).
 
 ### FAQ
 
 Veelgestelde vragen en antwoorden daarop, waaronder: wat is een algoritme? wat mag wel? wat mag niet? wanneer maak ik een melding? wat doen jullie met een melding?
+
+### Bijeenkomsten
+
+Bijeenkomsten over the good, the bad and the ugly van de inzet van AI en de dilemma's daarbij.
 
 ## Over Code for NL
 
